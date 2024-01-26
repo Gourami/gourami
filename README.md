@@ -8,7 +8,7 @@
 🎓 Committed to continuous learning through Udemy and Coursera courses.
 🌍 Experience:
 
-🌱 Founder and Developer at [(https://drywall101.com).](https://drywall101.com/).
+🌱 Founder and Developer at [https://drywall101.com](https://drywall101.com/).
 🌐 Actively involved in a global not-for-profit organization for the past 12 years.
 🤝 Managed teams ranging from 6 to 160 people in various leadership roles.
 🚀 Strong project and people management skills.
@@ -25,11 +25,11 @@
 🚀 Thrive in dynamic, collaborative environments.
 🔗 Connect with Me:
 
-🌐 Portfolio: [(https://tylerdill.dev/about)](https://www.tylerdill.dev/about)
-👔 LinkedIn: [[https://linkedin.com](https://www.linkedin.com/in/tyler-j-dill/)]
-🐦 X / Twitter: [[@tylerjdill]](https://twitter.com/tylerjdill)
+🌐 Portfolio: [https://tylerdill.dev/about](https://www.tylerdill.dev/about)
+👔 LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/tyler-j-dill/)]
+🐦 X / Twitter: [@tylerjdill](https://twitter.com/tylerjdill)
 📧 Email: [tylerjdill@gmail.com]
 
-![Profile Image](./images/tylerdill.png)
+![Profile Image](./images/tylerdill.jpg)
 
 Let's connect and build something amazing together! 💻✨
