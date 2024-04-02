@@ -3,8 +3,8 @@
 ![Profile Image](./images/tylerdill.jpg)  
 
 ### 🚀 About Me:
-💻 Self-taught coder since 2008, proficient in JavaScript, React, PHP, HTML5, CSS3, and MySql.  
-🌐 Expanded skill set to include API development, responsive web design, Java, C++, Sass, Material UI, and Web GL.  
+💻 Started as a web developer in 2008, proficient in JavaScript, React, PHP, HTML5, CSS3, and MySql.  
+🌐 Expanded skill set to include API development, responsive web design, Java, Sass, Material UI, and Web GL.  
 📚 Currently pursuing a Bachelor's degree in Computer Science, set to graduate in 2026.  
 🎓 Committed to continuous learning through Udemy and Coursera courses.  
 
